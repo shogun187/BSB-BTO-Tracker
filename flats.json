@@ -1,0 +1,5364 @@
+[
+  {
+    "number": 254,
+    "price": "$586.9K",
+    "floor": 21,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$586.9K",
+    "floor": 20,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$544.4K",
+    "floor": 13,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$541.9K",
+    "floor": 12,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$539.4K",
+    "floor": 11,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$524.3K",
+    "floor": 10,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$509.3K",
+    "floor": 9,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 254,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$472.3K",
+    "floor": 4,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 254,
+    "price": "$456.6K",
+    "floor": 3,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 256,
+    "price": "$586.9K",
+    "floor": 21,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 256,
+    "price": "$586.9K",
+    "floor": 20,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 256,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$539.4K",
+    "floor": 11,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$524.3K",
+    "floor": 10,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$509.3K",
+    "floor": 9,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$478.5K",
+    "floor": 4,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$469.1K",
+    "floor": 3,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 256,
+    "price": "$459.7K",
+    "floor": 2,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$580.6K",
+    "floor": 21,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$580.6K",
+    "floor": 20,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$578.1K",
+    "floor": 19,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 262,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 262,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$580.6K",
+    "floor": 21,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$580.6K",
+    "floor": 20,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$578.1K",
+    "floor": 19,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46A",
+    "available": false
+  },
+  {
+    "number": 264,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 264,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 264,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "46A",
+    "available": true
+  },
+  {
+    "number": 266,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 266,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 266,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 266,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 266,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 266,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 268,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 268,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 272,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 272,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 274,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 274,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$561.9K",
+    "floor": 21,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$561.9K",
+    "floor": 20,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$559.4K",
+    "floor": 19,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$556.9K",
+    "floor": 18,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$554.4K",
+    "floor": 17,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$551.9K",
+    "floor": 16,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$549.4K",
+    "floor": 15,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$546.9K",
+    "floor": 14,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$544.4K",
+    "floor": 13,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$541.9K",
+    "floor": 12,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$539.4K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$534.4K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$531.9K",
+    "floor": 8,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$525.6K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$519.3K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$513K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 276,
+    "price": "$497.3K",
+    "floor": 4,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 276,
+    "price": "$481.6K",
+    "floor": 3,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 276,
+    "price": "$472.2K",
+    "floor": 2,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 278,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$574.4K",
+    "floor": 21,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$574.4K",
+    "floor": 20,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 280,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 280,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 280,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 280,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "46B",
+    "available": false
+  },
+  {
+    "number": 280,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 280,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "46B",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$565.6K",
+    "floor": 19,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 286,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$565.6K",
+    "floor": 19,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 288,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 288,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$565.6K",
+    "floor": 19,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 298,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$500.4K",
+    "floor": 3,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 298,
+    "price": "$478.5K",
+    "floor": 2,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$565.6K",
+    "floor": 19,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "46C",
+    "available": false
+  },
+  {
+    "number": 304,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$500.4K",
+    "floor": 3,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 304,
+    "price": "$491K",
+    "floor": 2,
+    "block": "46C",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$583.1K",
+    "floor": 22,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$583.1K",
+    "floor": 21,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$580.6K",
+    "floor": 20,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$578.1K",
+    "floor": 19,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$553.1K",
+    "floor": 9,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 306,
+    "price": "$550.6K",
+    "floor": 8,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$544.3K",
+    "floor": 7,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$538K",
+    "floor": 6,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$531.7K",
+    "floor": 5,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$522.3K",
+    "floor": 4,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$512.9K",
+    "floor": 3,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 306,
+    "price": "$503.5K",
+    "floor": 2,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 312,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 312,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 312,
+    "price": "$565.5K",
+    "floor": 19,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 312,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$500.4K",
+    "floor": 3,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 312,
+    "price": "$491K",
+    "floor": 2,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 322,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$565.5K",
+    "floor": 19,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 322,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$570.6K",
+    "floor": 22,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 324,
+    "price": "$570.6K",
+    "floor": 21,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 324,
+    "price": "$568.1K",
+    "floor": 20,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$565.5K",
+    "floor": 19,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "47A",
+    "available": false
+  },
+  {
+    "number": 324,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 324,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "47A",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$584.4K",
+    "floor": 20,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 334,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$521.8K",
+    "floor": 9,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$472.3K",
+    "floor": 4,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$456.6K",
+    "floor": 3,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 334,
+    "price": "$447.2K",
+    "floor": 2,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$584.4K",
+    "floor": 20,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$544.4K",
+    "floor": 13,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$541.9K",
+    "floor": 12,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$539.4K",
+    "floor": 11,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$521.8K",
+    "floor": 9,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 336,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$478.5K",
+    "floor": 4,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 336,
+    "price": "$469.1K",
+    "floor": 3,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 342,
+    "price": "$578.1K",
+    "floor": 20,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$578.1K",
+    "floor": 19,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$553.1K",
+    "floor": 9,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$550.6K",
+    "floor": 8,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$544.3K",
+    "floor": 7,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 342,
+    "price": "$538K",
+    "floor": 6,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 342,
+    "price": "$531.7K",
+    "floor": 5,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 342,
+    "price": "$522.3K",
+    "floor": 4,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 342,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 342,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$578.1K",
+    "floor": 20,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$578.1K",
+    "floor": 19,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$553.1K",
+    "floor": 9,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$550.6K",
+    "floor": 8,
+    "block": "47B",
+    "available": false
+  },
+  {
+    "number": 344,
+    "price": "$544.3K",
+    "floor": 7,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$538K",
+    "floor": 6,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$531.7K",
+    "floor": 5,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$522.3K",
+    "floor": 4,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 344,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "47B",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$584.4K",
+    "floor": 20,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$521.8K",
+    "floor": 9,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 346,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$478.5K",
+    "floor": 4,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 346,
+    "price": "$469.1K",
+    "floor": 3,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$584.4K",
+    "floor": 20,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$584.4K",
+    "floor": 19,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$581.9K",
+    "floor": 18,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$579.4K",
+    "floor": 17,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$576.9K",
+    "floor": 16,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$521.8K",
+    "floor": 9,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$506.8K",
+    "floor": 8,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$500.5K",
+    "floor": 7,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$494.2K",
+    "floor": 6,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$487.9K",
+    "floor": 5,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$472.3K",
+    "floor": 4,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 348,
+    "price": "$456.6K",
+    "floor": 3,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 348,
+    "price": "$447.2K",
+    "floor": 2,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 356,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 356,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$536.9K",
+    "floor": 10,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$534.4K",
+    "floor": 9,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$531.9K",
+    "floor": 8,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 358,
+    "price": "$525.6K",
+    "floor": 7,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 358,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 358,
+    "price": "$513K",
+    "floor": 5,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 358,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "47C",
+    "available": false
+  },
+  {
+    "number": 358,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 358,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "47C",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$569.4K",
+    "floor": 19,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 360,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 360,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 360,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 360,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$569.4K",
+    "floor": 19,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 362,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 362,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$503.6K",
+    "floor": 4,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 362,
+    "price": "$481.6K",
+    "floor": 3,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 370,
+    "price": "$569.4K",
+    "floor": 19,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 370,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 372,
+    "price": "$569.4K",
+    "floor": 19,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48A",
+    "available": false
+  },
+  {
+    "number": 372,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 372,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 372,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "48A",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 374,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 374,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 376,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 376,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 382,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 382,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$516.1K",
+    "floor": 4,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$506.7K",
+    "floor": 3,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 382,
+    "price": "$497.3K",
+    "floor": 2,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$571.9K",
+    "floor": 20,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$571.9K",
+    "floor": 19,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$569.4K",
+    "floor": 18,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$566.9K",
+    "floor": 17,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$564.4K",
+    "floor": 16,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$561.9K",
+    "floor": 15,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$559.4K",
+    "floor": 14,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$556.9K",
+    "floor": 13,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$554.4K",
+    "floor": 12,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$551.9K",
+    "floor": 11,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$549.4K",
+    "floor": 10,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$544.4K",
+    "floor": 8,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$538.1K",
+    "floor": 7,
+    "block": "48B",
+    "available": false
+  },
+  {
+    "number": 384,
+    "price": "$531.8K",
+    "floor": 6,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$525.5K",
+    "floor": 5,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$494.2K",
+    "floor": 3,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 384,
+    "price": "$484.8K",
+    "floor": 2,
+    "block": "48B",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$575.6K",
+    "floor": 19,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 406,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 406,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 406,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 406,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 406,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$513K",
+    "floor": 5,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$497.3K",
+    "floor": 4,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 406,
+    "price": "$478.5K",
+    "floor": 2,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$575.6K",
+    "floor": 19,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 408,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$513K",
+    "floor": 5,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$497.3K",
+    "floor": 4,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 408,
+    "price": "$478.5K",
+    "floor": 2,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 410,
+    "price": "$575.6K",
+    "floor": 19,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$575.6K",
+    "floor": 18,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$573.1K",
+    "floor": 17,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$570.6K",
+    "floor": 16,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$568.1K",
+    "floor": 15,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$565.6K",
+    "floor": 14,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$563.1K",
+    "floor": 13,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$560.6K",
+    "floor": 12,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$558.1K",
+    "floor": 11,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$555.6K",
+    "floor": 10,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$546.9K",
+    "floor": 9,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$513K",
+    "floor": 5,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 410,
+    "price": "$497.3K",
+    "floor": 4,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$487.9K",
+    "floor": 3,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 410,
+    "price": "$478.5K",
+    "floor": 2,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 412,
+    "price": "$563.1K",
+    "floor": 19,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 412,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 412,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 412,
+    "price": "$500.4K",
+    "floor": 3,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 412,
+    "price": "$491K",
+    "floor": 2,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 414,
+    "price": "$563.1K",
+    "floor": 19,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$563.1K",
+    "floor": 18,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$560.6K",
+    "floor": 17,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$558.1K",
+    "floor": 16,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$555.6K",
+    "floor": 15,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$553.1K",
+    "floor": 14,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$550.6K",
+    "floor": 13,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$548.1K",
+    "floor": 12,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$545.6K",
+    "floor": 11,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$543.1K",
+    "floor": 10,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$540.6K",
+    "floor": 9,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$538.1K",
+    "floor": 8,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$531.8K",
+    "floor": 7,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 414,
+    "price": "$525.5K",
+    "floor": 6,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 414,
+    "price": "$519.2K",
+    "floor": 5,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 414,
+    "price": "$509.8K",
+    "floor": 4,
+    "block": "48C",
+    "available": false
+  },
+  {
+    "number": 414,
+    "price": "$500.4K",
+    "floor": 3,
+    "block": "48C",
+    "available": true
+  },
+  {
+    "number": 414,
+    "price": "$478.5K",
+    "floor": 2,
+    "block": "48C",
+    "available": true
+  }
+]
